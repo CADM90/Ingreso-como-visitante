@@ -1,4 +1,4 @@
-# Pruebas Automatizadas – SportClub (Selenium)
+# Pruebas Automatizadas – S.C (Selenium)
 
 Este repositorio contiene dos scripts de automatización funcional usando Python y Selenium para simular eventos clave de comportamiento de usuarios.
 
